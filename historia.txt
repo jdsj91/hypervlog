@@ -1,5 +1,5 @@
-Historia de José Sandoya
+Me llamo José Sandoya, tengo 29 años y soy ecuatoriano.
 
-Esto es un archivo de prueba para el curso de git
+My name is José Sandoya, I'm 29 years old and I'm ecuadorian.
 
-Hola Mundo...
+Moi, c'est José Sandoya, j'ai 29 ans et je suis équatorien.
